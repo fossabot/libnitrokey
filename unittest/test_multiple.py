@@ -4,7 +4,7 @@ from time import sleep
 import pytest
 from collections import defaultdict
 
-import tqdm as tqdm
+from tqdm import tqdm
 
 from conftest import skip_if_device_version_lower_than
 from constants import DefaultPasswords, DeviceErrorCode, bb
