@@ -1,3 +1,24 @@
+/*
+ * Copyright (c) 2015-2018 Nitrokey UG
+ *
+ * This file is part of Libnitrokey.
+ *
+ * Libnitrokey is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * any later version.
+ *
+ * Libnitrokey is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with Libnitrokey. If not, see <http://www.gnu.org/licenses/>.
+ *
+ * SPDX-License-Identifier: LGPL-3.0
+ */
+
 /* Copyright (c) 2004,2005,2007 Joerg Wunsch Copyright (c) 2005, Carlos Lamas All rights reserved.
 
    Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
